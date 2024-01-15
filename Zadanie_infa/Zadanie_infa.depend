@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607632107 source:c:\users\rafal\desktop\programy c++\zadanie_infa\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+

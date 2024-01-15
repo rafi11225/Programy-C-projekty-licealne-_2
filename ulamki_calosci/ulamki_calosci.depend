@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606394553 source:c:\users\rafal\desktop\programy c++\ulamki_calosci\main.cpp
+	<iostream>
+	<cstdlib>
+
